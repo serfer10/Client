@@ -1,0 +1,15 @@
+E:\Labs\ITIROD\Client\bin\Debug\net6.0\Client.exe
+E:\Labs\ITIROD\Client\bin\Debug\net6.0\Client.deps.json
+E:\Labs\ITIROD\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+E:\Labs\ITIROD\Client\bin\Debug\net6.0\Client.dll
+E:\Labs\ITIROD\Client\bin\Debug\net6.0\Client.pdb
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.dll
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\refint\Client.dll
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.pdb
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+E:\Labs\ITIROD\Client\obj\Debug\net6.0\ref\Client.dll
