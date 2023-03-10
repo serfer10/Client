@@ -1,11 +1,11 @@
 # Photo Gallery
 Figma link:https://www.figma.com/file/ydfc3B2qCPfTLIdfthkkHI/Photo-Gallery?t=zCTkJ1qvCEAbg1eZ-6
 
-##Description##
+## Description
 
 The goal is to make photo gallery that's will have simple interface, all main fuctions of gallery and append fucntion of friends acitivity tracking
 
-##Main Functions##
+## Main Functions
 
 * Upload and download photos.
 * Delete photos.
@@ -13,24 +13,24 @@ The goal is to make photo gallery that's will have simple interface, all main fu
 * Find, tack, delete, add friends.
 * Search photo by date, album
 
-##Data Models Description##
+## Data Models Description
 
-###Photo###
+### Photo
 * Img
 * Date
 * Place
 * Size
 
-###Friend###
+### Friend
 * Link
 * Name
 * Img
 
-###Album###
+### Album
 * Contributors
 * Photo
 
-###User###
+### User
 * Name
 * User description
 * Img
